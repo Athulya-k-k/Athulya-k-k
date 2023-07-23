@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Sans&color=%23F7F7F7&size=36&center=true&vCenter=true&width=1280&lines=Hi!+I'm+Athulya+K+K)](https://git.io/typing-svg)
 <h3 align="center">A passionate Python Fullstack developer from India</h3>
 <img align = "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/92/66/e49266b020eb9e125f4bc87503414444.gif">
-- 🌱 I’m currently upgrading **my logical thinking skills as a Python Django developer.**
+- 🌱 I’m currently upgrading my logical thinking skills as a Python Django developer.
 
 - 💬 Ask me about **Python,Django,React js,Mysql,psql**
 
