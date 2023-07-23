@@ -1,11 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Sans&color=%23F7F7F7&size=36&center=true&vCenter=true&width=1280&lines=Hi!+I'm+Athulya+K+K)](https://git.io/typing-svg)
+
+<h1 align="center">Hi 👋, I'm Athulya k k</h1>
 <h3 align="center">A passionate Python Fullstack developer from India</h3>
 <img align = "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/92/66/e49266b020eb9e125f4bc87503414444.gif">
-- 🌱 I’m currently upgrading my logical thinking skills as a Python Django developer.
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=athulya-k-k&label=Profile%20views&color=0e75b6&style=flat" alt="athulya-k-k" /> </p>
 
 - 💬 Ask me about **Python,Django,React js,Mysql,psql**
 
-- 📫 Reach to me:- **athulyaathu.uk@gmail.com**
+- 📫 How to reach me **athulyaathu.uk@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/athulya k k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athulya k k" height="30" width="40" /></a>
@@ -19,5 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athulya-k-k&show_icons=true&locale=en" alt="athulya-k-k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athulya-k-k&" alt="athulya-k-k" /></p>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
